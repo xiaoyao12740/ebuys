@@ -45,15 +45,11 @@ cn.ebuy
 ├── pojo           # 实体类（JPA注解）
 ```
 
- 部分功能截图
-
-> （可以放几张截图，如首页、商品详情、评论页等）
-
  如何运行
 
 1. 克隆项目到本地
 ```bash
-git clone https://github.com/你的用户名/easybuy.git
+git clone https://github.com/xiaoyao12740/easybuy.git
 ```
 
 2. 导入IDE（推荐 IntelliJ IDEA）
