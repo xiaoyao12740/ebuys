@@ -2,7 +2,7 @@
 
 <p align="center"><strong>基于 Spring MVC、MyBatis 与 JSP 的 Java Web 商城，覆盖用户、商品、新闻、留言和后台分层。</strong><br>A Java web storefront built with Spring MVC, MyBatis, and JSP, covering users, products, news, messages, and layered administration logic.</p>
 
-<p align="center">![Tech](https://img.shields.io/badge/stack-Java%20Web-2563eb) ![Docs](https://img.shields.io/badge/docs-中文%20%7C%20English-16a34a) ![Status](https://img.shields.io/badge/status-portfolio--ready-f59e0b)</p>
+<p align="center"><img alt="Tech stack" src="https://img.shields.io/badge/stack-Java%20Web-2563eb"> <img alt="Documentation language" src="https://img.shields.io/badge/docs-中文%20%7C%20English-16a34a"> <img alt="Project status" src="https://img.shields.io/badge/status-portfolio--ready-f59e0b"></p>
 
 <p align="center"><a href="#中文说明">中文</a> · <a href="#english">English</a> · <a href="#结果展示--results">结果展示 / Results</a> · <a href="#复现--reproduction">复现 / Reproduction</a></p>
 
