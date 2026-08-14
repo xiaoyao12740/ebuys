@@ -6,6 +6,12 @@
 
 <p align="center"><a href="#中文说明">中文</a> · <a href="#english">English</a> · <a href="#结果展示--results">结果展示 / Results</a> · <a href="#复现--reproduction">复现 / Reproduction</a></p>
 
+> **历史学习仓库 / Historical learning repository**
+>
+> 本仓库保存的是早期 Java Web 学习项目。当前提交历史不足以可靠确认所有源码、页面与大批静态商品图片的最初来源或再分发许可，因此不应把整个仓库视为原创作品或可自由再分发素材。详细审计结论见 [`PROVENANCE.md`](PROVENANCE.md)。
+>
+> This repository preserves an early Java Web learning project. Its history does not reliably establish the original source or redistribution terms for every code, page, and bundled product image; do not treat the repository as wholly original or all assets as freely redistributable. See [`PROVENANCE.md`](PROVENANCE.md).
+
 ## 中文说明
 
 ### 项目定位
